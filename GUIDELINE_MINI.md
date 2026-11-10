@@ -6,10 +6,10 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
 | --- | --- | --- |
-| `car` | | |
-| `truck` | | |
-| `bus` | | |
-| `van` | | |
+| `car` | xe con, sedan, SUV, taxi, xe bán tải | Sedan và SUV xếp vào car. Không gán van chỉ vì xe có kích thước hơi lớn. Phân biệt bằng phần đầu xe, khoang hành khách và hình dáng giống xe con. |
+| `truck` | xe tải chở hàng, xe đầu kéo | Xe tải thùng kín, tải ben, đầu kéo, bán tải chở hàng rõ ràng. Phân biệt với van ở kết cấu cabin và khoang hàng thường tách biệt hoặc mang dáng xe tải. |
+| `bus` | xe buýt, minibus chở khách | Xe buýt đô thị, xe khách cỡ lớn, minibus nếu schema quy định minibus thuộc bus. Phân biệt với van bằng thân dài hơn, nhiều cửa sổ hành khách và sức chứa lớn hơn. |
+| `van` | xe van, minivan chở hàng hoặc chở người | Xe giao hàng, xe tải van, passenger van. Phân biệt với car bằng thân cao và vuông hơn; phân biệt với bus bằng kích thước và số hàng ghế/cửa sổ ít hơn. |
 
 ## Quy tắc chung
 
