@@ -40,9 +40,9 @@ Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi �
 
 ## 5. Kết quả YOLO
 
-- Runtime, GPU/CPU, phiên bản Ultralytics và Torch:
-- Các tham số thay đổi so với notebook nếu có và lý do:
-- Đường dẫn best checkpoint trong phiên chạy:
+- Runtime, GPU/CPU, phiên bản Ultralytics và Torch: CUDA:0 (Tesla T4, 14913MiB), Ultralytics 8.4.208, torch-2.14.1+cu130
+- Các tham số thay đổi so với notebook nếu có và lý do: Không 
+- Đường dẫn best checkpoint trong phiên chạy: /content/Day2-Lab/outputs/yolo26_runs/vehicle_annotation/weights/best.pt
 
 | Chỉ số trên 10 ảnh eval | Giá trị |
 |---|---:|
