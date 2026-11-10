@@ -21,7 +21,7 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 - Kết quả checker và lỗi đã xử lý: Đã đạt checker, đã sửa nhãn theo lỗi FN/FP và box lỏng
 - Danh sách ít nhất 10 ảnh đã rà bằng mắt: drive_001, drive_002, drive_003, drive_004, drive_005, drive_006, drive_007, drive_008, drive_009, drive_010
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa: Label tiếp box/class không quá nhỏ hoặc bị che khuất ít.
-- Commit khóa nhãn ban đầu: 
+- Commit khóa nhãn ban đầu: 50 file txt
 
 ## 4. Gold QC và rework
 
