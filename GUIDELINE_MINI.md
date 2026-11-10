@@ -13,7 +13,7 @@
 
 ## Quy tắc chung
 
-- Box bám sát vật thể nghĩa là: Box phải bao sát phần phương tiện nhìn thấy được và sát với các điểm ngoài cùng, không để quá nhiều nền đường, vỉa hè hoặc xe khác lọt vào box.
+- Box bám sát vật thể nghĩa là: Box phải ôm sát phần phương tiện nhìn thấy được và sát với các điểm ngoài cùng, không lấy quá nhiều nền đường, vỉa hè, trời hoặc xe bên cạnh lọt vào box.
 - Vật thể bị che khuất: Chỉ vẽ box quanh phần thực sự nhìn thấy, không tự đoán phần thân xe bị che khuất, chỉ gán nhãn khi phần nhìn thấy còn đủ để xác định tương đối lớp phương tiện.
 - Vật thể bị cắt bởi rìa ảnh: Bounding box dừng tại đúng rìa ảnh và bao sát phần phương tiện còn nhìn thấy, chỉ nên bỏ qua khi phần còn lại quá ít, không đủ nhận diện lớp.
 - Vật thể rất nhỏ/mơ hồ: Bỏ qua nếu không đủ chi tiết để xác định chắc chắn lớp hoặc không phân biệt được giữa các lớp.
