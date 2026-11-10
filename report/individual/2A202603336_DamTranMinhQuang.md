@@ -68,8 +68,7 @@ Tránh hiện tượng Data Leakage: Nếu đưa 10 ảnh eval vào tập train,
 ## 6. Khó khăn và cách xử lý
 
 | Bước/thời điểm | Lỗi quan sát | Cách đã thử | Kết quả/còn thiếu |
-
-|Label|Các xe dừng đèn đó đứng che khuất lẫn nhau|Cố label toàn bộ các phương tiện|Vài box không sát, bị nhầm lớp|
+| Label | Các xe dừng đèn đó đứng che khuất lẫn nhau | Cố label toàn bộ các phương tiện | Vài box không sát, bị nhầm lớp |
 | | | | |
 
 ## 7. Tự đánh giá theo rubric
